@@ -1,0 +1,2 @@
+# NewZealandLottery
+New Zealand Lottery
